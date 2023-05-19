@@ -1,4 +1,4 @@
-### <div align="center">I'm a learner and shaping the my skill</div>  
+### <div align="center">I'm a learner and shaping my brain for better live</div>  
   
 
 - 🔭 I’m currently working on [organization](https://github.com/orgs/loekalin/repositories)  
