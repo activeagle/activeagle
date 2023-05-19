@@ -6,7 +6,7 @@
 ### <div align="center">I'm a learner and shaping the my skill</div>  
   
 
-- 🔭 I’m currently working on [Github Profilinator](https://github.com/orgs/loekalin/repositories)  
+- 🔭 I’m currently working on [organization](https://github.com/orgs/loekalin/repositories)  
   
 
 - 🌱 I’m currently learning Python and their framework  
