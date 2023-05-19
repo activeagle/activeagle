@@ -62,14 +62,12 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=activeagle&hide_border=true&layout=compact" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=activeagle&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
-
-<br/>  
-
-<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31jrjceqldk5qzf5sddbujwze24m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31jrjceqldk5qzf5sddbujwze24m&cover_image=false&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color_cover=true" /></div>  
+<div align="center"><img src="[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31jrjceqldk5qzf5sddbujwze24m&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31jrjceqldk5qzf5sddbujwze24m&cover_image=true&theme=default&show_offline=true&background_color=000000&interchange=true&bar_color_cover=true&bar_color=77767b" /></div>
+<br />
 
 <br/>  
 
