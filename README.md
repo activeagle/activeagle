@@ -16,10 +16,10 @@
 </br>
 
 <div align="center">
-<!-- github stat -->
-  <img src="https://github-readme-stats.vercel.app/api?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
 <!-- Sreak -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/>
+<!-- github stat -->
+  <img src="https://github-readme-stats.vercel.app/api?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
 </div>
 
 <!-- Quotes -->
