@@ -1,7 +1,7 @@
 <h1 align="center">Hi curious people</h1>
 
 
-# 💻 Tech Stack:
+
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> 
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
@@ -10,7 +10,7 @@
 </div>
 
 
-# 📊 GitHub Stats:'
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/> <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/> <br/>
@@ -19,14 +19,14 @@
 
 
 
-### ✍️ Random Dev Quote
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight"/> </br> 
 <div/>
 
 
 
-### 😂 Random Dev Meme
+
 <div align="center">
   <img src='https://randommeme-five.vercel.app/' style="height: 200px;"/> </br>
 </div>
