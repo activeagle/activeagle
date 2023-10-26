@@ -3,6 +3,9 @@
 ###
 
 <div align="center">
+  <p align="center">
+  <img src="https://github.com/activeagle/activeagle/assets/68158429/a767aecb-af5a-4b69-b2e0-a4a7817bb2d7"/>
+</p>
   <img src="https://streak-stats.demolab.com?user=activeagle&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=10&date_format=M j[, Y]" height="150" alt="streak graph" /> <br>
 </div>
 
