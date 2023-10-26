@@ -2,7 +2,7 @@
 
 ###
 
-<div align="right">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=activeagle&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="134" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=activeagle&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=10&date_format=M j[, Y]" height="150" alt="streak graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=activeagle&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=2&theme=rose_pine&hide_border=true" height="100" alt="languages graph"  />
@@ -26,10 +26,8 @@
 
 ###
 
-<img align="right" height="100" src="https://i.imgflip.com/1oppua.gif"  />
+<img align="center" height="200" src="https://i.imgflip.com/1oppua.gif"  />
 
 ###
 
-<div align="left">
-</div>
 
