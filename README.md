@@ -24,8 +24,3 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="35" alt="discord logo"  />
 </div>
 
-###
-
-<img align="" height="100" src="https://i.imgflip.com/1oppua.gif"  />
-
-
