@@ -26,10 +26,6 @@
 
 ###
 
-<img align="right" height="200" src="https://i.imgflip.com/1oppua.gif"  />
-
-###
-
 <img align="center" height="200" src="https://i.imgflip.com/1oppua.gif"  />
 
 
