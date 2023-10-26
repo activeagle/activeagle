@@ -3,7 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=activeagle&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=true" height="134" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=activeagle&locale=en&mode=daily&theme=rose_pine&hide_border=true&border_radius=10&date_format=M j[, Y]" height="150" alt="streak graph" /> <br>
 </div>
 
