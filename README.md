@@ -14,16 +14,15 @@
 </div>
 
 </br>
-</br>
 
 <div align="center">
-<!-- Streak -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/> </br> </br>
-<!-- github stat -->
-  <img src="https://github-readme-stats.vercel.app/api?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/>
-</div>
 
-</br>
+<!-- Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/>
+
+<!-- github stat -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/> -->
+</div>
 
 <!-- Quotes -->
 <div align="center">
