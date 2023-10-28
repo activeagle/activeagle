@@ -1,8 +1,10 @@
 <h1 align="center">Hi curious people</h1>
 
+</br>
+
 <div align="center">
 <!-- Most Used Language -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> </br> </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> </br> </br> </br>
 <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> 
 <!-- Python -->
@@ -13,7 +15,7 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/> 
 </div>
 
-</br>
+</br> </br>
 
 <div align="center">
 
