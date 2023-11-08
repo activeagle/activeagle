@@ -4,7 +4,7 @@
 
 <div align="center">
 <!-- Most Used Language -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> </br> </br> </br>
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/> </br> </br> </br> -->
 <!-- Linux -->
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/> 
 <!-- Python -->
@@ -15,18 +15,24 @@
   <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white"/> 
 </div>
 
-</br> </br>
+<!-- </br>  -->
+
+</br>
 
 <div align="center">
 
 <!-- Streak -->
+<<<<<<< HEAD
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/> -->
+=======
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/> -->
+>>>>>>> f394c6a ([+] comment streak)
 
 <!-- github stat -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/> -->
 <!-- </div> -->
 
-</br>
+<!-- </br> -->
 
 <!-- Quotes -->
 <div align="center">
