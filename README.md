@@ -22,11 +22,10 @@
 <div align="center">
 
 <!-- Streak -->
-<<<<<<< HEAD
  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/> -->
-=======
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/> -->
->>>>>>> f394c6a ([+] comment streak)
+  
+ <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=activeagle&theme=tokyonight&hide_border=true"/> -->
+
 
 <!-- github stat -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=activeagle&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false"/> -->
