@@ -1,1 +1,1 @@
-<h1 align="center">curious people</h1>
+<h1 align="center">long live learner</h1>
