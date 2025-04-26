@@ -1,5 +1,5 @@
 <h1>
-  🦅 <strong>Long Live Learner</strong> | <strong>Growth through Curiosity</strong>
+  🦅 <strong>Livelong Learner</strong> | <strong>Growth through Curiosity</strong>
 </h1>
 
 <blockquote>
