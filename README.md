@@ -1,7 +1,7 @@
 
 
 <h1>
-  🐦 <strong>Live Long learner</strong> | <strong>Growth through Curiosity</strong>
+  🐦 <strong>Livelong learner</strong> | <strong>Growth through Curiosity</strong>
 </h1>
 
 <blockquote>
